@@ -1,0 +1,4 @@
+这是忽略清单文件
+node_modules
+test
+test.html
